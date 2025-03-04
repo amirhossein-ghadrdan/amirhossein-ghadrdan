@@ -4,7 +4,7 @@
 
 Frontend: React.js, Next.js, TypeScript, Tailwind CSS , mui
 
-Backend: Node.js , postgressSql 
+Backend: Node.js , postgressSql , mongoDB , redis , docker
 
 🚀 Passionate about building modern, scalable web applications. Let’s connect and create something awesome!
 
