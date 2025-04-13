@@ -12,7 +12,7 @@ Backend: Node.js , postgressSql , mongoDB , redis , docker
 This app is focused on promoting a cleaner city and is built in collaboration with the municipality.
 
 
- my certificate in coursera : 
+ my certificates in coursera : 
  https://coursera.org/verify/RC7AD3XK2LXH
  https://coursera.org/verify/5F54YZCGHHAL
 <!---
